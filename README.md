@@ -6,7 +6,7 @@
 
 ## An interactive app developed using Flutter and Dialogflow CX
 
-[![Download](https://img.shields.io/badge/Download-E4405F?style=for-the-badge)](https://github.com/yashchittora/gitsbot/releases/download/1.0/GitsBot.apk)
+### Get the app : [![Download](https://img.shields.io/badge/Download-E4405F?style=for-the-badge)](https://github.com/yashchittora/gitsbot/releases/download/v1.0.0/GitsBot.apk)
 
 
 ### Features
