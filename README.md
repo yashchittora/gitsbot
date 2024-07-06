@@ -1,10 +1,12 @@
 # GITS Udaipur Chatbot
 
 <p align="center">
-  <img src="lib/Images/AppIcon.jpg" alt="App Icon" width="200">
+  <img src="lib/Images/AppIcon.png" alt="App Icon" width="200">
 </p>
 
 ## An interactive app developed using Flutter and Dialogflow CX
+
+[![Download](https://img.shields.io/badge/Download-E4405F?style=for-the-badge)](https://github.com/yashchittora/gitsbot/releases/download/1.0/GitsBot.apk)
 
 
 ### Features
